@@ -1,5 +1,5 @@
 
-<h1 align="center">MALIK TAIMOOR AWAN</h1>
+<h1 align="center">MALIK TAIMOOR AWAN™ </h1>
 <p align="center"><code>FULL-STACK AI • CYBERSECURITY • AUTOMATION</code></p>
 
 <p align="center">
