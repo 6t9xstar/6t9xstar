@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/6t9xstar/6t9xstar/refs/heads/main/6t9.png" />
+  <img src="https://github.com/6t9xstar/6t9xstar/blob/main/6t9z.gif" />
 </p>
 
 <h1 align="center">MALIK TAIMOOR AWAN™ </h1>
