@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/6t9xstar/6t9xstar/refs/heads/main/6t9.png" />
+</p>
 
 <h1 align="center">MALIK TAIMOOR AWAN™ </h1>
 <p align="center"><code>FULL-STACK AI • CYBERSECURITY • AUTOMATION</code></p>
