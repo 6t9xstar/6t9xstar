@@ -367,32 +367,6 @@ CLIENT
               └───────────────┘
 ```
 
----
-
-# 📊 GitHub Intelligence
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=6t9xstar&show_icons=true&theme=transparent&hide_border=true&title_color=8b0000&icon_color=8b0000&text_color=aaaaaa&ring_color=8b0000"
-height="170"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=6t9xstar&layout=compact&theme=transparent&hide_border=true&title_color=8b0000&text_color=aaaaaa"
-height="170"
-/>
-
-<br/>
-
-<img
-src="https://nirzak-streak-stats.vercel.app/?user=6t9xstar&theme=transparent&hide_border=true&ring=8b0000&fire=8b0000&currStreakLabel=8b0000&sideLabels=aaaaaa&dates=777777"
-width="70%"
-/>
-
-</div>
-
-> GitHub language statistics reflect public repository contents and are not a measurement of overall proficiency.
 
 ---
 
