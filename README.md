@@ -1,93 +1,452 @@
-<p align="center">
-  <img src="https://github.com/6t9xstar/6t9xstar/blob/main/6t9z.gif" />
-</p>
+<!-- =========================================================
+     MALIK TAIMOOR AWAN — GITHUB PROFILE
+     github.com/6t9xstar
+========================================================== -->
 
-<h1 align="center">MALIK TAIMOOR AWAN™ </h1>
-<p align="center"><code>FULL-STACK AI • CYBERSECURITY • AUTOMATION</code></p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=6t9xstar&label=ACCESS%20LOGS&color=8b0000&style=flat" />
-  <img src="https://img.shields.io/github/followers/6t9xstar?label=FOLLOWERS&color=0a0a0a&style=flat" />
-  <img src="https://img.shields.io/github/stars/6t9xstar?label=STARS&color=0a0a0a&style=flat" />
-</p>
+<img src="https://github.com/6t9xstar/6t9xstar/blob/main/6t9z.gif" width="100%" alt="Malik Taimoor Awan" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-8b0000?style=flat" />
-  <img src="https://img.shields.io/badge/MODE-STEALTH-black?style=flat" />
-  <img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20CYBER%20%7C%20SAAS-111111?style=flat" />
-</p>
+<br/>
 
+# MALIK TAIMOOR AWAN™
 
-## 🧠 About Me
-- 🔭 Currently building **B2B SaaS platforms & scalable Email Infrastructure**
-- 🌱 Learning **Penetration Testing, Threat Analysis & Secure Cloud Architecture**
-- 👯 Open to collaborate on **Cloud-Native, AI & Security-First Products**
-- 🤝 Looking for strong minds in **AI Systems, Full-Stack & Distributed Design**
-- 💬 Ask me about **AI, Automation, Full-Stack & Cybersecurity**
-- 📫 Reach me at **mtaimoormalik99@gmail.com**
-- 🌍 Based in **Lahore, Pakistan**
+### AI SYSTEMS · FULL-STACK ENGINEERING · CYBERSECURITY · AUTOMATION
 
----
+<code>BUILDING INTELLIGENT SYSTEMS FROM MODEL → API → INFRASTRUCTURE → INTERFACE</code>
 
-## 🔗 Portfolio & Writing
-- 👨‍💻 Projects: https://github.com/6t9xstar?tab=repositories  
-- ✍️ Topics: **AI • Full-Stack • Cybersecurity • Automation**
+<br/><br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=6t9xstar&label=PROFILE+VIEWS&color=8b0000&style=for-the-badge)](https://github.com/6t9xstar)
+[![Followers](https://img.shields.io/github/followers/6t9xstar?label=FOLLOWERS&style=for-the-badge&color=111111)](https://github.com/6t9xstar?tab=followers)
+[![Stars](https://img.shields.io/github/stars/6t9xstar?affiliations=OWNER&label=STARS&style=for-the-badge&color=111111)](https://github.com/6t9xstar?tab=repositories)
+
+<br/>
+
+![Status](https://img.shields.io/badge/SYSTEM-ACTIVE-8B0000?style=flat-square)
+![Focus](https://img.shields.io/badge/FOCUS-AI_SYSTEMS-black?style=flat-square)
+![Security](https://img.shields.io/badge/SECURITY-ENABLED-black?style=flat-square)
+![Open Source](https://img.shields.io/badge/OPEN_SOURCE-YES-8B0000?style=flat-square)
+
+</div>
 
 ---
 
-<h3 align="center">🔗 Network Access</h3>
+## `> whoami`
 
-<p align="center">
-  <a href="https://linkedin.com/in/t9xod" target="_blank" rel="noopener">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
-  </a>
-  <a href="https://twitter.com/t9xod" target="_blank" rel="noopener">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" />
-  </a>
-  <a href="https://dev.to/6t9" target="_blank" rel="noopener">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="40" />
-  </a>
-  <a href="https://medium.com/t9xod" target="_blank" rel="noopener">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/32091355" target="_blank" rel="noopener">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="40" />
-  </a>
-  <a href="https://kaggle.com/dev69z" target="_blank" rel="noopener">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40" />
-  </a>
-  <a href="https://codepen.io/t69" target="_blank" rel="noopener">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" width="40" />
-  </a>
-  <a href="https://codesandbox.com/t69z" target="_blank" rel="noopener">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" width="40" />
-  </a>
-  <a href="https://instagram.com/yours._malik" target="_blank" rel="noopener">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
-  </a>
-</p>
+```text
+NAME        Malik Taimoor Awan
+HANDLE      6t9xstar
+LOCATION    Lahore, Pakistan
+FOCUS       AI · Full-Stack · Cybersecurity · Automation
+MISSION     Build fast, useful and scalable intelligent systems.
+```
 
+I build software across the stack — from **AI model architecture and inference**
+to **backend systems, automation engines, desktop applications and infrastructure**.
+
+My work is currently centered around:
+
+- 🧠 Artificial Intelligence & foundation-model experimentation
+- 🦀 High-performance backend systems
+- ⚡ Local and CPU-efficient AI inference
+- 🌐 Full-stack SaaS architecture
+- 🤖 Browser and workflow automation
+- 🔐 Cybersecurity and secure system design
+- 📡 APIs, distributed services and data infrastructure
+
+> **I don't just build interfaces. I build the systems behind them.**
 
 ---
 
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+# 🐐 Flagship Project — MAR
+
+<div align="center">
+
+## MAR 1.0 — MARKHOR AI
+
+**Open-Source Foundation Model Architecture & AI Platform**
+
+`MODEL` · `TRAINING` · `INFERENCE` · `RUST API` · `DESKTOP` · `RAG`
+
+<br/>
+
+[![MAR](https://img.shields.io/badge/Explore-MAR_1.0-8B0000?style=for-the-badge&logo=github)](https://github.com/6t9xstar/MAR-1.0)
+[![License](https://img.shields.io/badge/License-MIT-black?style=for-the-badge)](https://github.com/6t9xstar/MAR-1.0/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/6t9xstar/MAR-1.0?style=for-the-badge&color=8B0000)](https://github.com/6t9xstar/MAR-1.0/stargazers)
+
+</div>
+
+<br/>
+
+**MAR** is inspired by the **Markhor** and is being developed as an open-source AI ecosystem from Pakistan.
+
+It combines a modern decoder-only Transformer architecture with a complete application stack:
+
+```text
+                         ┌─────────────────┐
+                         │     MAR AI      │
+                         │  FOUNDATION     │
+                         └────────┬────────┘
+                                  │
+             ┌────────────────────┼────────────────────┐
+             │                    │                    │
+             ▼                    ▼                    ▼
+      ┌─────────────┐      ┌─────────────┐      ┌─────────────┐
+      │  TRAINING   │      │  INFERENCE  │      │  KNOWLEDGE  │
+      │   PyTorch   │      │ llama.cpp   │      │     RAG     │
+      │ Tokenizer   │      │    GGUF     │      │ Vector DB   │
+      └──────┬──────┘      └──────┬──────┘      └──────┬──────┘
+             │                    │                    │
+             └────────────────────┼────────────────────┘
+                                  │
+                                  ▼
+                         ┌─────────────────┐
+                         │    RUST CORE    │
+                         │   Axum · APIs   │
+                         └────────┬────────┘
+                                  │
+                                  ▼
+                         ┌─────────────────┐
+                         │    SOLIDJS      │
+                         │   TAURI 2.x     │
+                         │    DESKTOP      │
+                         └─────────────────┘
+```
+
+### MAR Architecture
+
+`GQA` · `RoPE` · `SwiGLU` · `RMSNorm` · `BPE` · `GGUF` · `llama.cpp`
+
+<div align="center">
+
+### ⭐ If MAR interests you, consider starring the project.
+
+[![Star MAR](https://img.shields.io/github/stars/6t9xstar/MAR-1.0?style=social)](https://github.com/6t9xstar/MAR-1.0)
+
+</div>
+
 ---
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=6t9xstar&show_icons=true&theme=tokyonight&hide_border=true&title_color=8b0000&icon_color=8b0000&text_color=ffffff"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=6t9xstar&layout=compact&theme=tokyonight&hide_border=true&title_color=8b0000&text_color=ffffff"
-    height="165"
-  />
+# ⚡ Current Focus
+
+```yaml
+research:
+  - foundation models
+  - efficient local inference
+  - retrieval augmented generation
+  - AI agent architecture
+
+engineering:
+  - Rust backend systems
+  - TypeScript applications
+  - distributed APIs
+  - desktop AI
+  - automation infrastructure
+
+security:
+  - penetration testing
+  - threat analysis
+  - application security
+  - secure architecture
+
+building:
+  - MAR 1.0
+  - AI infrastructure
+  - B2B SaaS
+  - automation engines
+```
+
+---
+
+# 🧠 Engineering Domains
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### AI / ML
+
+- Transformer architecture
+- LLM experimentation
+- PyTorch
+- Tokenization
+- GGUF
+- llama.cpp
+- RAG pipelines
+- Vector search
+- Local inference
+- AI automation
+
+</td>
+<td width="50%" valign="top">
+
+### Backend Engineering
+
+- Rust
+- Go
+- Python
+- Node.js
+- Axum
+- NestJS
+- Express
+- REST APIs
+- Async systems
+- Service architecture
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Full Stack
+
+- TypeScript
+- JavaScript
+- React
+- Next.js
+- SolidJS
+- Tauri
+- HTML5
+- CSS
+- Desktop applications
+- SaaS platforms
+
+</td>
+<td width="50%" valign="top">
+
+### Security / Infrastructure
+
+- Linux
+- Bash
+- PowerShell
+- Docker
+- Cloudflare
+- AWS
+- Azure
+- Google Cloud
+- Security testing
+- Network analysis
+
+</td>
+</tr>
+</table>
+
+---
+
+# ⚙️ Technology Arsenal
+
+### `LANGUAGES`
+
+<p>
+<img src="https://skillicons.dev/icons?i=rust,go,python,ts,js,cpp,c,cs,java,bash,powershell" />
 </p>
 
-<p align="center">
-  <img
-    src="https://nirzak-streak-stats.vercel.app/?user=6t9xstar&theme=tokyonight&hide_border=true&ring=8b0000&fire=8b0000&currStreakLabel=8b0000"
-    width="70%"
-  />
+### `AI / DATA`
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,postgres,mysql,mongodb" />
 </p>
+
+`PyTorch` · `Pandas` · `LLM Architecture` · `GGUF` · `llama.cpp` · `RAG` · `Vector Search` · `pgvector`
+
+### `FRONTEND / APPLICATION`
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,electron" />
+</p>
+
+`SolidJS` · `Tauri` · `React Native`
+
+### `BACKEND`
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,dotnet" />
+</p>
+
+`Axum` · `REST` · `WebSockets` · `Async Rust`
+
+### `INFRASTRUCTURE`
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,azure,gcp,cloudflare,nginx,linux" />
+</p>
+
+### `AUTOMATION / DEV TOOLS`
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio" />
+</p>
+
+`Playwright` · `Selenium` · `GitHub Actions` · `CI/CD`
+
+---
+
+# 🔐 Cybersecurity
+
+Cybersecurity is part of how I approach engineering — not an afterthought.
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                 SECURITY INTERESTS                   │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  Application Security      → Secure software design │
+│  Penetration Testing       → Controlled assessment  │
+│  Threat Analysis           → Attack surface review  │
+│  Web Security              → Modern web threats     │
+│  Cloud Security            → Infrastructure design  │
+│  API Security              → Authentication & ACL   │
+│  Secure Architecture       → Defense in depth       │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+My security work and research are intended for **authorized testing, defensive engineering and education**.
+
+---
+
+# 🤖 Automation
+
+I enjoy replacing repetitive workflows with software.
+
+```python
+while repetitive_work:
+    identify_bottleneck()
+    design_system()
+    automate()
+    measure()
+    optimize()
+```
+
+Areas I work with include:
+
+**Browser Automation**  
+`Playwright` · `Selenium`
+
+**Data Pipelines**  
+`Python` · `Go` · `Rust`
+
+**Business Automation**  
+`APIs` · `Workers` · `Schedulers` · `Queues`
+
+**AI Automation**  
+`LLMs` · `RAG` · `Agents` · `Tool Integration`
+
+---
+
+# 📡 System Design
+
+```text
+CLIENT
+   │
+   ▼
+┌──────────────┐
+│ EDGE / CDN   │
+│ Cloudflare   │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│ API GATEWAY  │
+└──────┬───────┘
+       │
+       ├──────────────┬───────────────┐
+       ▼              ▼               ▼
+┌───────────┐   ┌───────────┐   ┌───────────┐
+│ AI ENGINE │   │ SERVICES  │   │ WORKERS   │
+└─────┬─────┘   └─────┬─────┘   └─────┬─────┘
+      │               │               │
+      └───────────────┼───────────────┘
+                      ▼
+              ┌───────────────┐
+              │  DATA LAYER   │
+              │ SQL · Vector  │
+              │ Cache · Search│
+              └───────────────┘
+```
+
+---
+
+# 📊 GitHub Intelligence
+
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=6t9xstar&show_icons=true&theme=transparent&hide_border=true&title_color=8b0000&icon_color=8b0000&text_color=aaaaaa&ring_color=8b0000"
+height="170"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=6t9xstar&layout=compact&theme=transparent&hide_border=true&title_color=8b0000&text_color=aaaaaa"
+height="170"
+/>
+
+<br/>
+
+<img
+src="https://nirzak-streak-stats.vercel.app/?user=6t9xstar&theme=transparent&hide_border=true&ring=8b0000&fire=8b0000&currStreakLabel=8b0000&sideLabels=aaaaaa&dates=777777"
+width="70%"
+/>
+
+</div>
+
+> GitHub language statistics reflect public repository contents and are not a measurement of overall proficiency.
+
+---
+
+# 🛰️ Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-6t9xstar-181717?style=for-the-badge&logo=github)](https://github.com/6t9xstar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-t9xod-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/t9xod)
+[![X](https://img.shields.io/badge/X-t9xod-000000?style=for-the-badge&logo=x)](https://twitter.com/t9xod)
+[![DEV](https://img.shields.io/badge/DEV.to-6t9-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/6t9)
+[![Medium](https://img.shields.io/badge/Medium-t9xod-000000?style=for-the-badge&logo=medium)](https://medium.com/t9xod)
+[![Kaggle](https://img.shields.io/badge/Kaggle-dev69z-20BEFF?style=for-the-badge&logo=kaggle)](https://kaggle.com/dev69z)
+[![Instagram](https://img.shields.io/badge/Instagram-yours._malik-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/yours._malik)
+
+<br/><br/>
+
+### 📬 `CONTACT`
+
+**mtaimoormalik99@gmail.com**
+
+</div>
+
+---
+
+# 🐐 Philosophy
+
+```text
+$ ./mission.sh
+
+> BUILD systems that solve real problems.
+> LEARN what happens below the abstraction layer.
+> AUTOMATE what should not require human repetition.
+> SECURE everything exposed to the outside world.
+> OPEN-SOURCE what can help other builders.
+> KEEP SHIPPING.
+```
+
+---
+
+<div align="center">
+
+## `MALIK TAIMOOR AWAN™`
+
+**AI · SYSTEMS · SECURITY · AUTOMATION**
+
+### 🇵🇰 Building from Pakistan for the world.
+
+<br/>
+
+[![MAR](https://img.shields.io/badge/🐐_MAR_1.0-EXPLORE_PROJECT-8B0000?style=for-the-badge)](https://github.com/6t9xstar/MAR-1.0)
+
+<br/>
+
+<sub>CODE THE SYSTEM · SECURE THE SYSTEM · SCALE THE SYSTEM</sub>
+
+</div>
