@@ -1,5 +1,7 @@
 # Hi, I'm Malik Taimoor Awan
 
+![GitHub stars](https://img.shields.io/github/stars/6t9xstar/6t9xstar?style=social)
+
 AI • SEC • AUTO
 
 **📍:** Lahore, Pakistan  
