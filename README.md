@@ -7,9 +7,11 @@
 
 <img
   src="./6t9z.gif"
-  width="100%"
   alt="Malik Taimoor Awan — Full-Stack AI · Cybersecurity · Automation"
+  width="100%"
+  autoplay
 />
+
 # MALIK TAIMOOR AWAN™
 
 <a href="https://github.com/6t9xstar"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=E63946&center=true&vCenter=true&width=640&lines=AI+Systems+%C2%B7+Full-Stack+Engineering;Cybersecurity+%C2%B7+Automation;Building+from+Lahore%2C+Pakistan" alt="AI Systems · Full-Stack Engineering · Cybersecurity · Automation" /></a>
