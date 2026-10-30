@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="./6t9.png" width="100%" alt="Malik Taimoor Awan — Full-Stack AI · Cybersecurity · Automation" />
+<img src="./6t9z.gif" width="100%" alt="Malik Taimoor Awan — Full-Stack AI · Cybersecurity · Automation" />
 
 # MALIK TAIMOOR AWAN™
 
